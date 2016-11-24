@@ -1,25 +1,27 @@
 <style>
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+font-family: 'Sans Serif', 'Comic Sans MS';
 body{
 text-align: center;
-font-family: 'Sans Serif', 'Comic Sans MS';
+
 }
 
 h1{
 text-align: center;
-  font-family: 'Sans Serif', 'Comic Sans MS';
+
 }
 
 h2{
 text-align: center;
-  font-family: 'Sans Serif', 'Comic Sans MS';
+
 }
 
 p{
 text-align: center;
 margin: auto;
 width: 500px;
-  font-family: 'Sans Serif', 'Comic Sans MS';
+
+background: white;
 }
 
 </style>
